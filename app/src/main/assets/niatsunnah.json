@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Niat Sholat Qabliyyah Dzuhur",
+    "arabic": "اُصَلِّيْ سُنَّةَ الظُّهْرِ رَكْعَتَيْنِ قَبْلِيَّةً مُسْتَقْبِلَ اْلقِبْلَةِ اَدَاءً لِلَّهِ تَعَالَى",
+    "latin": "Ushalli sunnatad dhuhri rok’ataini qabliyatan mustaqbilal qiblati ada’an lillahi ta’ala",
+    "terjemahan": "Aku niat shalat qabliyah zuhur dua rakaat menghadap kiblat karena Allah."
+  },
+  {
+    "id": 2,
+    "name": "Niat Sholat Ba'diyah Dzuhur",
+    "arabic": "اُصَلِّيْ سُنَّةَ الظُّهْرِ رَكْعَتَيْنِ بَعْدِيَّةً مُسْتَقْبِلَ اْلقِبْلَةِ اَدَاءً لِلَّهِ تَعَالَى",
+    "latin": "Ushalli sunnatad dhuhri rok’ataini ba’diyyatan mustaqbilal qiblati ada’an lillahi ta’ala",
+    "terjemahan": "Aku niat shalat qabliyah zuhur dua raka’at menghadap kiblat karena Allah."
+  },
+  {
+    "id": 3,
+    "name": "Niat Sholat Tahajud",
+    "arabic": "اُصَلِّى سُنَّةً التَّهَجُّدِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ ِللهِ تَعَالَى",
+    "latin": "Ushalli sunnatat tahajjudi rak‘ataini lillaahi ta‘aala",
+    "terjemahan": "Aku menyengaja sembahyang sunnah tahajud dua rakaat karena Allah SWT"
+  },
+  {
+    "id": 4,
+    "name": "Niat Sholat Dhuha",
+    "arabic": "اُصَلِّى سُنَّةَ الضَّحٰى رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ اَدَاءً ِللهِ تَعَالَى",
+    "latin": "Ushalli Sunnatadh-dhuhaa rak'ataini lillaahi ta'aalaa.",
+    "terjemahan": "Aku niat sholat sunat dhuha karena Allah ta'ala."
+  },
+  {
+    "id": 5,
+    "name": "Niat Sholat Hajat",
+    "arabic": "أاُصَلِّى سُنَّةَ الْحَاجَةِ رَكْعَتَيْنِ لِلهِ تَعَالَىِ",
+    "latin": "Ushollii sunnatal haajati rok'aataini lillahi ta'ala.",
+    "terjemahan": "Aku berniat sholat hajat sunnah hajat dua raka'at karena Allah Ta'ala."
+  },
+  {
+    "id": 6,
+    "name": "Niat Sholat Witir",
+    "arabic": "صَلِّى سُنَّةَ الوِتْرِ رَكْعَةً مُسْتَقْبِلَ الْقِبْلَةِ أَدَاءً لِلهِ تَعَال",
+    "latin": "Ushalli sunnatal witri rak'atan mustaqbilal qiblati adā'an lillāhi ta'ālā.",
+    "terjemahan": "Aku niat shalat sunnat witir satu rakaat karena Allah ta'ala."
+  },
+  {
+    "id": 7,
+    "name": "Niat Sholat Tarawih",
+    "arabic": "اُصَلِّى سُنَّةَ التَّرَاوِيْحِ رَكْعَتَيْنِ مُسْتَقْبِلَ الْقِبْلَةِ لِلهِ تَعَالَىِِ",
+    "latin": "Ushalli sunnatat tarāwīhi rak'atayni mustaqbilal qiblati lillāhi ta'ālā.",
+    "terjemahan": "Aku niat salat sunah tarawih dua raka'at sebagai makmum karena Allah Ta'ala"
+  }
+]
